@@ -29,3 +29,6 @@ var/
 .Rproj.user
 .Rhistory
 .RData
+
+# jupyter notebook checkpoints
+code/.ipynb_checkpoints/*
