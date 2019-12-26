@@ -2,6 +2,34 @@
 
 Analysis of phenobooth data from a library screen
 
+## Repository Structure
+
+    |- code/            # all programmatic code relating to the project
+    |  +- templates/    # scripts for generating template files
+    |
+    |- data/            # all data from the study
+    |  |- raw_internal/ # raw data generated in-lab or by collaborators, will not be altered
+    |  |- raw_external/ # data from third-party sources, databases etc, will not be altered
+    |  |- intermediate/ # intermediate data on its way from raw to final
+    |  +- final/        # final data for figures/visualizations
+    |
+    |- doc/             # documentation for the study and other explanatory material
+    |
+    |- results          # all output from workflows and analyses
+    |  |- figures/      # graphs, likely designated for manuscript figures
+    |  +- pictures/     # diagrams, images, and other non-graph graphics
+    |
+    |- .env             # file to store passwords and usernames needed for the scripts. This
+    |                     will not get synced to GitHub.
+    |- .gitignore       # files that will not sync to Github
+    |- LICENSE          # license
+    |- README.md        # the top level description of content
+    |- requirements.txt # the requirements file for reproducing the analysis environment,
+    |                     e.g. generated with `pip freeze > requirements.txt`
+    +- to-dos.md        # pending things that are yet to be done
+
+Navigate to each folder's `README.md` to learn more about the corresponding section.
+
 ## Acknowledgments
 
 The initial file and directory structure of this project was developed by a group of participants in the Reproducible Science Curriculum Workshop, held at [NESCent] in December 2014. The structure is based on, and heavily follows the one proposed by [Noble 2009], with a few but small modifications. The [original repository] has been [modified] by Martin Engqvist and the one presented here differs in some ways.
