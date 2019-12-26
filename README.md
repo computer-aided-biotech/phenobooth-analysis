@@ -1,6 +1,24 @@
 # phenobooth-analysis
 
-Analysis of phenobooth data from a library screen
+Analysis of phenobooth data from a library screen.
+
+## Requirements
+
+* [Anaconda](https://www.anaconda.com/)
+* Python 3 (comes included in Anaconda)
+* Git (or any Git client of your choice, e.g. [Github Desktop](https://desktop.github.com/))
+
+## Installation
+
+* Create an anaconda environment called `phenobooth-analysis`, with Jupyter Notebook installed in it.
+* Clone locally this repository.
+* From an anaconda terminal, `cd` to this repository's root and then do:
+  ```bash
+  conda activate phenobooth-analysis  # activates the new environment
+  pip install -r requirements.txt     # installs all dependencies
+  type nul > .env                     # creates a .env file for storing passwords
+  jupyter notebook                    # runs the jupyter notebook engine
+  ```
 
 ## Repository Structure
 
