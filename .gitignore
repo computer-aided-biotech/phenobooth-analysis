@@ -31,4 +31,11 @@ var/
 .RData
 
 # jupyter notebook checkpoints
-code/.ipynb_checkpoints/*
+code/.ipynb_checkpoints/
+
+# PyCharm stuff
+.idea/
+
+# Binaries
+*.xls
+*.xlsx
