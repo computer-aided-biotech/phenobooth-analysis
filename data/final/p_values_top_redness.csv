@@ -1,0 +1,46 @@
+,genes.selected,genes.total,p.value
+cell budding,9,56,0.12641113433040563
+chromosome organization,30,262,0.32888198037703414
+cytoskeleton organization,16,129,0.2739300331760249
+transport,68,783,0.9703807964987426
+mitochondrion organization,24,230,0.5427857231802711
+protein complex biogenesis,12,133,0.7522401244596393
+vacuole organization,5,46,0.5365140725932033
+cytokinesis,10,88,0.44363457222537966
+conjugation,8,97,0.8119737540205938
+protein modification process,46,410,0.3295448771621919
+translation,28,292,0.7247826036380246
+pseudohyphal growth,10,59,0.08409992171570939
+cellular component morphogenesis,16,138,0.3729118806483256
+cellular carbohydrate metabolic process,21,223,0.7346034223911034
+chromosome segregation,8,76,0.5507426187926001
+vesicle-mediated transport,21,267,0.9426144459919257
+fungal-type cell wall organization,10,108,0.7089304596065719
+sporulation resulting in formation of a cellular spore,14,121,0.3892773668487057
+cellular respiration,5,80,0.9328808955460378
+cellular protein catabolic process,16,130,0.28448868159577795
+nucleus organization,1,36,0.9817040280320679
+meiosis,11,130,0.8163379334650959
+peroxisome organization,5,48,0.5757429041892141
+generation of precursor metabolites and energy,10,148,0.9564497286417946
+cellular homeostasis,11,126,0.7834816714419243
+ribosome biogenesis,7,113,0.9601097410975
+signal transduction,14,181,0.9167739855016991
+heterocycle metabolic process,7,132,0.9888426444340376
+DNA metabolic process,34,264,0.11587792649851006
+protein folding,10,66,0.14804271334196725
+other,13,129,0.603790812764237
+cellular aromatic compound metabolic process,6,66,0.7042125604248441
+cellular amino acid and derivative metabolic process,20,209,0.7038230030121225
+transposition,3,38,0.7765366264237664
+cell cycle,34,354,0.738000933396853
+RNA metabolic process,58,602,0.785286996465747
+cellular membrane organization,15,207,0.9581628932841049
+cellular lipid metabolic process,15,157,0.6890434812193181
+response to stress,51,473,0.43536528153086884
+biological_process,159,1405,0.1229240094911574
+cofactor metabolic process,12,123,0.6491126795189478
+vesicle organization,1,31,0.9680466930116857
+response to chemical stimulus,40,379,0.5076915065758961
+transcription,43,406,0.49605889993096364
+vitamin metabolic process,6,46,0.3504692813764578
