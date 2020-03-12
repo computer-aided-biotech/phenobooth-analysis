@@ -13,7 +13,7 @@ defusedxml==0.6.0
 docopt==0.6.2
 entrypoints==0.3
 fisher==0.1.9
-goatools==1.0.2
+-e git://github.com/BenjaSanchez/goatools.git@38abb784dcc3b6d6094b68737a55644b5e3cd55c#egg=goatools
 idna==2.9
 importlib-metadata==1.1.0
 ipykernel==5.1.3
