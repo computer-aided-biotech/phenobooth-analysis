@@ -16,6 +16,7 @@ Analysis of phenobooth data from a library screen.
   ```bash
   conda activate phenobooth-analysis  # activates the new environment
   pip install -r requirements.txt     # installs all dependencies
+  conda install -c anaconda graphviz  # Needs to be conda-installed
   type nul > .env                     # creates a .env file for storing passwords
   jupyter notebook                    # runs the jupyter notebook engine
   ```
