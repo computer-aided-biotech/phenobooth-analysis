@@ -1,8 +1,8 @@
 # GO	NS	enrichment	name	ratio_in_study	ratio_in_pop	p_uncorrected	depth	study_count	p_fdr_bh	study_items
-GO:0000147	BP	e	actin cortical patch assembly	2/135	12/4436	0.049697487613804985	7	2	1.0	854713, 855640
-GO:0000753	BP	e	cell morphogenesis involved in conjugation with cellular fusion	2/135	8/4436	0.0228241594117537	6	2	1.0	852328, 853902
+GO:0000147	BP	e	actin cortical patch assembly	2/135	12/4436	0.049697487613804985	8	2	1.0	854713, 855640
+GO:0000753	BP	e	cell morphogenesis involved in conjugation with cellular fusion	2/135	8/4436	0.0228241594117537	5	2	1.0	852328, 853902
 GO:0000920	BP	e	septum digestion after cytokinesis	2/135	12/4436	0.049697487613804985	2	2	1.0	854223, 855389
-GO:0001578	BP	e	microtubule bundle formation	1/135	1/4436	0.030432822362590782	6	1	1.0	854223
+GO:0001578	BP	e	microtubule bundle formation	1/135	1/4436	0.030432822362590782	7	1	1.0	854223
 GO:0003333	BP	e	amino acid transmembrane transport	3/135	25/4436	0.038882939520309266	9	3	1.0	853710, 854721, 856349
 GO:0006000	BP	e	fructose metabolic process	2/135	7/4436	0.01746312620024637	6	2	1.0	851059, 854699
 GO:0006003	BP	e	fructose 2,6-bisphosphate metabolic process	2/135	4/4436	0.005298837373881813	5	2	1.0	851059, 854699
@@ -33,7 +33,7 @@ GO:0019321	BP	e	pentose metabolic process	1/135	1/4436	0.030432822362590782	5	1	
 GO:0030091	BP	e	protein repair	1/135	1/4436	0.030432822362590782	6	1	1.0	850324
 GO:0032259	BP	e	methylation	7/135	70/4436	0.005017229991286073	2	7	1.0	850991, 852050, 853271, 854711, 854746, 855707, 856616
 GO:0032482	BP	e	Rab protein signal transduction	2/135	10/4436	0.03525189278842127	8	2	1.0	856417, 856753
-GO:0033615	BP	e	mitochondrial proton-transporting ATP synthase complex assembly	2/135	11/4436	0.04224077965947582	8	2	1.0	851109, 854709
+GO:0033615	BP	e	mitochondrial proton-transporting ATP synthase complex assembly	2/135	11/4436	0.04224077965947582	9	2	1.0	851109, 854709
 GO:0034638	BP	e	phosphatidylcholine catabolic process	1/135	1/4436	0.030432822362590782	8	1	1.0	854943
 GO:0035879	BP	e	plasma membrane lactate transport	1/135	1/4436	0.030432822362590782	11	1	1.0	853663
 GO:0036003	BP	e	positive regulation of transcription from RNA polymerase II promoter in response to stress	2/135	5/4436	0.008655638158230752	12	2	1.0	851542, 856016
@@ -44,11 +44,11 @@ GO:0046835	BP	e	carbohydrate phosphorylation	3/135	14/4436	0.007844430868900071	
 GO:0048870	BP	e	cell motility	1/135	1/4436	0.030432822362590782	3	1	1.0	853902
 GO:0050684	BP	e	regulation of mRNA processing	1/135	1/4436	0.030432822362590782	8	1	1.0	855256
 GO:0051058	BP	e	negative regulation of small GTPase mediated signal transduction	1/135	1/4436	0.030432822362590782	8	1	1.0	856362
-GO:0051255	BP	e	spindle midzone assembly	1/135	1/4436	0.030432822362590782	4	1	1.0	854223
+GO:0051255	BP	e	spindle midzone assembly	1/135	1/4436	0.030432822362590782	5	1	1.0	854223
 GO:0051443	BP	e	positive regulation of ubiquitin-protein transferase activity	1/135	1/4436	0.030432822362590782	11	1	1.0	850819
 GO:0061092	BP	e	positive regulation of phospholipid translocation	1/135	1/4436	0.030432822362590782	9	1	1.0	855783
 GO:0061187	BP	e	regulation of chromatin silencing at rDNA	1/135	1/4436	0.030432822362590782	11	1	1.0	855091
-GO:0070649	BP	e	formin-nucleated actin cable assembly	2/135	5/4436	0.008655638158230752	8	2	1.0	854647, 855423
+GO:0070649	BP	e	formin-nucleated actin cable assembly	2/135	5/4436	0.008655638158230752	9	2	1.0	854647, 855423
 GO:0071423	BP	e	malate transmembrane transport	1/135	1/4436	0.030432822362590782	11	1	1.0	851063
 GO:0072382	BP	e	minus-end-directed vesicle transport along microtubule	1/135	1/4436	0.030432822362590782	9	1	1.0	853928
 GO:0090630	BP	e	activation of GTPase activity	2/135	11/4436	0.04224077965947582	7	2	1.0	852961, 855423
@@ -57,7 +57,7 @@ GO:0098506	BP	e	polynucleotide 3' dephosphorylation	1/135	1/4436	0.0304328223625
 GO:0120133	BP	e	negative regulation of actin cortical patch assembly	1/135	1/4436	0.030432822362590782	8	1	1.0	854713
 GO:1900049	BP	e	regulation of histone exchange	1/135	1/4436	0.030432822362590782	8	1	1.0	853271
 GO:1902475	BP	e	L-alpha-amino acid transmembrane transport	2/135	5/4436	0.008655638158230752	10	2	1.0	853710, 856349
-GO:1903475	BP	e	mitotic actomyosin contractile ring assembly	2/135	7/4436	0.01746312620024637	9	2	1.0	854647, 854668
+GO:1903475	BP	e	mitotic actomyosin contractile ring assembly	2/135	7/4436	0.01746312620024637	10	2	1.0	854647, 854668
 GO:1990577	BP	e	C-terminal protein demethylation	1/135	1/4436	0.030432822362590782	9	1	1.0	856474
 GO:1990961	BP	e	xenobiotic detoxification by transmembrane export across the plasma membrane	2/135	8/4436	0.0228241594117537	6	2	1.0	852015, 856444
 GO:2000370	BP	e	positive regulation of clathrin-dependent endocytosis	1/135	1/4436	0.030432822362590782	9	1	1.0	855783
@@ -70,7 +70,7 @@ GO:0009986	CC	e	cell surface	3/135	19/4436	0.018691373831557622	2	3	1.0	853326, 
 GO:0003865	MF	e	3-oxo-5-alpha-steroid 4-dehydrogenase activity	1/135	1/4436	0.030432822362590782	5	1	1.0	854762
 GO:0003873	MF	e	6-phosphofructo-2-kinase activity	2/135	4/4436	0.005298837373881813	7	2	1.0	851059, 854699
 GO:0003885	MF	e	D-arabinono-1,4-lactone oxidase activity	1/135	1/4436	0.030432822362590782	5	1	1.0	854888
-GO:0003918	MF	e	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity	1/135	1/4436	0.030432822362590782	10	1	1.0	856364
+GO:0003918	MF	e	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity	1/135	1/4436	0.030432822362590782	9	1	1.0	856364
 GO:0003988	MF	e	acetyl-CoA C-acyltransferase activity	1/135	1/4436	0.030432822362590782	6	1	1.0	854646
 GO:0004307	MF	e	ethanolaminephosphotransferase activity	1/135	1/4436	0.030432822362590782	6	1	1.0	856523
 GO:0004425	MF	e	indole-3-glycerol-phosphate synthase activity	1/135	1/4436	0.030432822362590782	5	1	1.0	853669
@@ -93,7 +93,6 @@ GO:0016301	MF	e	kinase activity	11/135	164/4436	0.016369566314263652	4	11	1.0	85
 GO:0016671	MF	e	oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor	1/135	1/4436	0.030432822362590782	4	1	1.0	850324
 GO:0016740	MF	e	transferase activity	26/135	523/4436	0.009594376848878374	2	26	1.0	850641, 850991, 851039, 851059, 851687, 852050, 852565, 852931, 853052, 853271, 854111, 854127, 854646, 854699, 854703, 854711, 854713, 854746, 854776, 855091, 855256, 855707, 855761, 855783, 856523, 856616
 GO:0016853	MF	e	isomerase activity	5/135	54/4436	0.02322925754671303	2	5	1.0	850990, 854417, 855762, 856364, 856617
-GO:0016887	MF	e	ATPase activity	6/135	87/4436	0.048083043343875705	7	6	1.0	850567, 850784, 852015, 853198, 855224, 855807
 GO:0016889	MF	e	endodeoxyribonuclease activity, producing 3'-phosphomonoesters	1/135	1/4436	0.030432822362590782	7	1	1.0	856364
 GO:0016899	MF	e	oxidoreductase activity, acting on the CH-OH group of donors, oxygen as acceptor	1/135	1/4436	0.030432822362590782	4	1	1.0	854888
 GO:0018024	MF	e	histone-lysine N-methyltransferase activity	2/135	4/4436	0.005298837373881813	8	2	1.0	852050, 853271
