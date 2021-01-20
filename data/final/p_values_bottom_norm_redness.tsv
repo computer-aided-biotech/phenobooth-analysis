@@ -1,81 +1,90 @@
 # GO	NS	enrichment	name	ratio_in_study	ratio_in_pop	p_uncorrected	depth	study_count	p_fdr_bh	study_items
-GO:0000749	BP	e	response to pheromone triggering conjugation with cellular fusion	2/137	8/4436	0.023465308034271593	7	2	1.0	850453, 855197
-GO:0000950	BP	e	branched-chain amino acid catabolic process to alcohol via Ehrlich pathway	1/137	1/4436	0.030883678990107258	10	1	1.0	851987
-GO:0000951	BP	e	methionine catabolic process to 3-methylthiopropanol	1/137	1/4436	0.030883678990107258	11	1	1.0	851987
-GO:0001111	BP	e	promoter clearance from RNA polymerase II promoter	1/137	1/4436	0.030883678990107258	9	1	1.0	855974
-GO:0006285	BP	e	base-excision repair, AP site formation	2/137	4/4436	0.005454257219298109	7	2	1.0	851218, 856885
-GO:0006533	BP	e	aspartate catabolic process	1/137	1/4436	0.030883678990107258	10	1	1.0	853755
-GO:0006611	BP	e	protein export from nucleus	2/137	6/4436	0.013091014410488355	9	2	1.0	851263, 852463
-GO:0009081	BP	e	branched-chain amino acid metabolic process	1/137	1/4436	0.030883678990107258	7	1	1.0	853613
-GO:0009083	BP	e	branched-chain amino acid catabolic process	2/137	8/4436	0.023465308034271593	8	2	1.0	851987, 853613
-GO:0010509	BP	e	polyamine homeostasis	1/137	1/4436	0.030883678990107258	5	1	1.0	852331
-GO:0015828	BP	e	tyrosine transport	2/137	7/4436	0.017959048009113278	10	2	1.0	852361, 853457
-GO:0015909	BP	e	long-chain fatty acid transport	1/137	1/4436	0.030883678990107258	10	1	1.0	853648
-GO:0016579	BP	e	protein deubiquitination	3/137	22/4436	0.028883805733566754	9	3	1.0	851435, 851641, 856835
-GO:0018364	BP	e	peptidyl-glutamine methylation	1/137	1/4436	0.030883678990107258	9	1	1.0	851718
-GO:0019368	BP	e	fatty acid elongation, unsaturated fatty acid	1/137	1/4436	0.030883678990107258	10	1	1.0	853243
-GO:0019551	BP	e	glutamate catabolic process to 2-oxoglutarate	1/137	1/4436	0.030883678990107258	11	1	1.0	851311
-GO:0019752	BP	e	carboxylic acid metabolic process	2/137	11/4436	0.04338884149340585	5	2	1.0	851425, 853994
-GO:0032120	BP	e	ascospore-type prospore membrane formation	3/137	16/4436	0.012015234507191866	6	3	1.0	851359, 852445, 854349
-GO:0033611	BP	e	oxalate catabolic process	1/137	1/4436	0.030883678990107258	8	1	1.0	852523
-GO:0034389	BP	e	lipid droplet organization	2/137	8/4436	0.023465308034271593	5	2	1.0	850351, 854995
-GO:0035556	BP	e	intracellular signal transduction	5/137	56/4436	0.028276319568938654	5	5	1.0	851173, 851216, 851536, 852316, 855130
-GO:0042726	BP	e	flavin-containing compound metabolic process	1/137	1/4436	0.030883678990107258	4	1	1.0	855216
-GO:0042759	BP	e	long-chain fatty acid biosynthetic process	1/137	1/4436	0.030883678990107258	9	1	1.0	855247
-GO:0044273	BP	e	sulfur compound catabolic process	1/137	1/4436	0.030883678990107258	4	1	1.0	850669
-GO:0046306	BP	e	alkanesulfonate catabolic process	1/137	1/4436	0.030883678990107258	5	1	1.0	850669
-GO:0070328	BP	e	triglyceride homeostasis	1/137	1/4436	0.030883678990107258	7	1	1.0	856759
-GO:0070676	BP	e	intralumenal vesicle formation	2/137	7/4436	0.017959048009113278	7	2	1.0	850712, 851641
-GO:0090549	BP	e	response to carbon starvation	1/137	1/4436	0.030883678990107258	6	1	1.0	856759
-GO:0106034	BP	e	protein maturation by [2Fe-2S] cluster transfer	2/137	3/4436	0.002783490198729794	7	2	1.0	853586, 856048
-GO:0106035	BP	e	protein maturation by [4Fe-4S] cluster transfer	3/137	6/4436	0.000538401580232069	7	3	1.0	851251, 853586, 856048
-GO:1902647	BP	e	negative regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process	1/137	1/4436	0.030883678990107258	11	1	1.0	852426
-GO:1903044	BP	e	protein localization to membrane raft	1/137	1/4436	0.030883678990107258	6	1	1.0	856702
-GO:1905037	BP	e	autophagosome organization	1/137	1/4436	0.030883678990107258	6	1	1.0	855194
-GO:2001295	BP	e	malonyl-CoA biosynthetic process	1/137	1/4436	0.030883678990107258	12	1	1.0	855247
-GO:0000795	CC	e	synaptonemal complex	2/137	6/4436	0.013091014410488355	3	2	1.0	851110, 852057
-GO:0000922	CC	e	spindle pole	2/137	11/4436	0.04338884149340585	2	2	1.0	853513, 854349
-GO:0005674	CC	e	transcription factor TFIIF complex	1/137	1/4436	0.030883678990107258	5	1	1.0	855974
-GO:0005743	CC	p	mitochondrial inner membrane	1/137	187/4436	0.030141027790253287	5	1	1.0	853585
-GO:0005811	CC	e	lipid droplet	5/137	47/4436	0.014142143601735631	5	5	1.0	850351, 851215, 852476, 853920, 854995
-GO:0032993	CC	e	protein-DNA complex	1/137	1/4436	0.030883678990107258	2	1	1.0	856885
-GO:0033263	CC	e	CORVET complex	2/137	6/4436	0.013091014410488355	3	2	1.0	851261, 852106
-GO:0035657	CC	e	eRF1 methyltransferase complex	1/137	1/4436	0.030883678990107258	5	1	1.0	851718
-GO:0070971	CC	e	endoplasmic reticulum exit site	1/137	1/4436	0.030883678990107258	2	1	1.0	856430
-GO:0000907	MF	e	sulfonate dioxygenase activity	1/137	1/4436	0.030883678990107258	5	1	1.0	850669
-GO:0000908	MF	e	taurine dioxygenase activity	1/137	1/4436	0.030883678990107258	5	1	1.0	850669
-GO:0003824	MF	e	catalytic activity	16/137	239/4436	0.0030051072034131326	1	16	1.0	850581, 850588, 850715, 850746, 850747, 851218, 851425, 851987, 852523, 853344, 853613, 853755, 853994, 855247, 856705, 856885
-GO:0003844	MF	e	1,4-alpha-glucan branching enzyme activity	1/137	1/4436	0.030883678990107258	5	1	1.0	856705
-GO:0003905	MF	e	alkylbase DNA N-glycosylase activity	1/137	1/4436	0.030883678990107258	6	1	1.0	856885
-GO:0003958	MF	e	NADPH-hemoprotein reductase activity	1/137	1/4436	0.030883678990107258	5	1	1.0	850588
-GO:0003989	MF	e	acetyl-CoA carboxylase activity	1/137	1/4436	0.030883678990107258	5	1	1.0	855247
-GO:0004075	MF	e	biotin carboxylase activity	1/137	1/4436	0.030883678990107258	4	1	1.0	855247
-GO:0004084	MF	e	branched-chain-amino-acid transaminase activity	1/137	1/4436	0.030883678990107258	5	1	1.0	853613
-GO:0004107	MF	e	chorismate synthase activity	1/137	1/4436	0.030883678990107258	5	1	1.0	852729
-GO:0004352	MF	e	glutamate dehydrogenase (NAD+) activity	1/137	1/4436	0.030883678990107258	6	1	1.0	851311
-GO:0004357	MF	e	glutamate-cysteine ligase activity	1/137	1/4436	0.030883678990107258	5	1	1.0	853344
-GO:0004401	MF	e	histidinol-phosphatase activity	1/137	1/4436	0.030883678990107258	6	1	1.0	850581
-GO:0004843	MF	e	thiol-dependent ubiquitin-specific protease activity	3/137	22/4436	0.028883805733566754	8	3	1.0	851435, 851641, 856835
-GO:0008234	MF	e	cysteine-type peptidase activity	3/137	22/4436	0.028883805733566754	5	3	1.0	851435, 851641, 856835
-GO:0008725	MF	e	DNA-3-methyladenine glycosylase activity	1/137	1/4436	0.030883678990107258	8	1	1.0	856885
-GO:0015495	MF	e	gamma-aminobutyric acid:proton symporter activity	1/137	1/4436	0.030883678990107258	10	1	1.0	851317
-GO:0017025	MF	e	TBP-class protein binding	1/137	1/4436	0.030883678990107258	5	1	1.0	850744
-GO:0022893	MF	e	low-affinity tryptophan transmembrane transporter activity	1/137	1/4436	0.030883678990107258	10	1	1.0	852361
-GO:0030371	MF	e	translation repressor activity	1/137	1/4436	0.030883678990107258	2	1	1.0	854541
-GO:0032131	MF	e	alkylated DNA binding	1/137	1/4436	0.030883678990107258	6	1	1.0	856885
-GO:0034319	MF	e	alcohol O-butanoyltransferase activity	1/137	1/4436	0.030883678990107258	7	1	1.0	852476
-GO:0036459	MF	e	thiol-dependent ubiquitinyl hydrolase activity	3/137	18/4436	0.01673800344498739	7	3	1.0	851435, 851641, 856835
-GO:0042602	MF	e	riboflavin reductase (NADPH) activity	1/137	1/4436	0.030883678990107258	5	1	1.0	852729
-GO:0043495	MF	e	protein membrane adaptor activity	2/137	9/4436	0.029566320884410177	4	2	1.0	851261, 856702
-GO:0043916	MF	e	DNA-7-methylguanine glycosylase activity	1/137	1/4436	0.030883678990107258	7	1	1.0	856885
-GO:0047884	MF	e	FAD diphosphatase activity	1/137	1/4436	0.030883678990107258	7	1	1.0	855216
-GO:0050203	MF	e	oxalate-CoA ligase activity	1/137	1/4436	0.030883678990107258	5	1	1.0	852523
-GO:0050546	MF	e	4-hydroxyphenylpyruvate decarboxylase activity	1/137	1/4436	0.030883678990107258	5	1	1.0	851987
-GO:0052642	MF	e	lysophosphatidic acid phosphatase activity	1/137	1/4436	0.030883678990107258	6	1	1.0	856759
-GO:0052654	MF	e	L-leucine transaminase activity	1/137	1/4436	0.030883678990107258	6	1	1.0	853613
-GO:0052655	MF	e	L-valine transaminase activity	1/137	1/4436	0.030883678990107258	6	1	1.0	853613
-GO:0052656	MF	e	L-isoleucine transaminase activity	1/137	1/4436	0.030883678990107258	6	1	1.0	853613
-GO:0052735	MF	e	tRNA (cytosine-3-)-methyltransferase activity	1/137	1/4436	0.030883678990107258	8	1	1.0	854414
-GO:0052821	MF	e	DNA-7-methyladenine glycosylase activity	1/137	1/4436	0.030883678990107258	7	1	1.0	856885
-GO:0052822	MF	e	DNA-3-methylguanine glycosylase activity	1/137	1/4436	0.030883678990107258	8	1	1.0	856885
-GO:0102752	MF	e	1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)	1/137	1/4436	0.030883678990107258	5	1	1.0	856705
+GO:0000011	BP	e	vacuole inheritance	2/92	17/4436	0.04728383342638395	6	2	1.0	852106, 856702
+GO:0000950	BP	e	branched-chain amino acid catabolic process to alcohol via Ehrlich pathway	1/92	1/4436	0.020739404869232137	10	1	1.0	851987
+GO:0000951	BP	e	methionine catabolic process to 3-methylthiopropanol	1/92	1/4436	0.020739404869232137	11	1	1.0	851987
+GO:0001111	BP	e	promoter clearance from RNA polymerase II promoter	1/92	1/4436	0.020739404869232137	9	1	1.0	855974
+GO:0001174	BP	e	transcriptional start site selection at RNA polymerase II promoter	1/92	2/4436	0.04105326614413976	9	1	1.0	855974
+GO:0006338	BP	e	chromatin remodeling	4/92	51/4436	0.020607809663775574	5	4	1.0	850774, 851199, 855214, 855974
+GO:0006538	BP	e	glutamate catabolic process	1/92	2/4436	0.04105326614413976	10	1	1.0	851311
+GO:0006552	BP	e	leucine catabolic process	1/92	2/4436	0.04105326614413976	9	1	1.0	851987
+GO:0006572	BP	e	tyrosine catabolic process	1/92	2/4436	0.04105326614413976	9	1	1.0	851987
+GO:0006633	BP	e	fatty acid biosynthetic process	2/92	14/4436	0.03293050257307239	8	2	1.0	853243, 855247
+GO:0008652	BP	e	cellular amino acid biosynthetic process	5/92	85/4436	0.030718183399043607	7	5	1.0	850581, 850588, 851425, 852729, 853613
+GO:0009081	BP	e	branched-chain amino acid metabolic process	1/92	1/4436	0.020739404869232137	7	1	1.0	853613
+GO:0009083	BP	e	branched-chain amino acid catabolic process	2/92	8/4436	0.010983469351968098	8	2	1.0	851987, 853613
+GO:0009099	BP	e	valine biosynthetic process	1/92	2/4436	0.04105326614413976	9	1	1.0	853613
+GO:0010509	BP	e	polyamine homeostasis	1/92	1/4436	0.020739404869232137	5	1	1.0	852331
+GO:0015812	BP	e	gamma-aminobutyric acid transport	1/92	2/4436	0.04105326614413976	9	1	1.0	851317
+GO:0015827	BP	e	tryptophan transport	1/92	2/4436	0.04105326614413976	10	1	1.0	852361
+GO:0015909	BP	e	long-chain fatty acid transport	1/92	1/4436	0.020739404869232137	10	1	1.0	853648
+GO:0019264	BP	e	glycine biosynthetic process from serine	1/92	2/4436	0.04105326614413976	11	1	1.0	850747
+GO:0019368	BP	e	fatty acid elongation, unsaturated fatty acid	1/92	1/4436	0.020739404869232137	10	1	1.0	853243
+GO:0019551	BP	e	glutamate catabolic process to 2-oxoglutarate	1/92	1/4436	0.020739404869232137	11	1	1.0	851311
+GO:0032120	BP	e	ascospore-type prospore membrane formation	3/92	16/4436	0.003975238003084276	6	3	1.0	851359, 852445, 854349
+GO:0034721	BP	e	histone H3-K4 demethylation, trimethyl-H3-K4-specific	1/92	2/4436	0.04105326614413976	12	1	1.0	855214
+GO:0042759	BP	e	long-chain fatty acid biosynthetic process	1/92	1/4436	0.020739404869232137	9	1	1.0	855247
+GO:0043162	BP	e	ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	2/92	14/4436	0.03293050257307239	9	2	1.0	850712, 851641
+GO:0044273	BP	e	sulfur compound catabolic process	1/92	1/4436	0.020739404869232137	4	1	1.0	850669
+GO:0046306	BP	e	alkanesulfonate catabolic process	1/92	1/4436	0.020739404869232137	5	1	1.0	850669
+GO:0046653	BP	e	tetrahydrofolate metabolic process	1/92	2/4436	0.04105326614413976	7	1	1.0	850747
+GO:0046655	BP	e	folic acid metabolic process	1/92	2/4436	0.04105326614413976	7	1	1.0	850747
+GO:0060917	BP	e	regulation of (1->6)-beta-D-glucan biosynthetic process	1/92	2/4436	0.04105326614413976	10	1	1.0	851216
+GO:0070676	BP	e	intralumenal vesicle formation	2/92	7/4436	0.008349708122867559	7	2	1.0	850712, 851641
+GO:0071562	BP	e	nucleus-vacuole junction assembly	1/92	2/4436	0.04105326614413976	5	1	1.0	856702
+GO:0090110	BP	e	COPII-coated vesicle cargo loading	1/92	2/4436	0.04105326614413976	5	1	1.0	856430
+GO:0090295	BP	e	nitrogen catabolite repression of transcription	1/92	2/4436	0.04105326614413976	11	1	1.0	853334
+GO:0097720	BP	e	calcineurin-mediated signaling	1/92	2/4436	0.04105326614413976	8	1	1.0	854946
+GO:0106034	BP	e	protein maturation by [2Fe-2S] cluster transfer	2/92	3/4436	0.0012593556724050335	7	2	1.0	853586, 856048
+GO:0106035	BP	e	protein maturation by [4Fe-4S] cluster transfer	2/92	6/4436	0.006045372992987083	7	2	1.0	853586, 856048
+GO:1902647	BP	e	negative regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process	1/92	1/4436	0.020739404869232137	11	1	1.0	852426
+GO:1903044	BP	e	protein localization to membrane raft	1/92	1/4436	0.020739404869232137	6	1	1.0	856702
+GO:1904482	BP	e	cellular response to tetrahydrofolate	1/92	2/4436	0.04105326614413976	6	1	1.0	850747
+GO:1904669	BP	e	ATP export	2/92	17/4436	0.04728383342638395	10	2	1.0	850712, 851641
+GO:1904902	BP	e	ESCRT III complex assembly	1/92	2/4436	0.04105326614413976	7	1	1.0	850712
+GO:1905037	BP	e	autophagosome organization	1/92	1/4436	0.020739404869232137	6	1	1.0	855194
+GO:2001295	BP	e	malonyl-CoA biosynthetic process	1/92	1/4436	0.020739404869232137	12	1	1.0	855247
+GO:0000795	CC	e	synaptonemal complex	2/92	6/4436	0.006045372992987083	3	2	1.0	851110, 852057
+GO:0000922	CC	e	spindle pole	2/92	11/4436	0.020719974192596302	2	2	1.0	853513, 854349
+GO:0005669	CC	e	transcription factor TFIID complex	1/92	2/4436	0.04105326614413976	4	1	1.0	855974
+GO:0005674	CC	e	transcription factor TFIIF complex	1/92	1/4436	0.020739404869232137	4	1	1.0	855974
+GO:0005753	CC	e	mitochondrial proton-transporting ATP synthase complex	1/92	2/4436	0.04105326614413976	5	1	1.0	853585
+GO:0005754	CC	e	mitochondrial proton-transporting ATP synthase, catalytic core	1/92	2/4436	0.04105326614413976	4	1	1.0	853585
+GO:0005780	CC	e	extrinsic component of intraperoxisomal membrane	1/92	2/4436	0.04105326614413976	4	1	1.0	855244
+GO:0005816	CC	e	spindle pole body	3/92	35/4436	0.03502316506203453	3	3	1.0	851359, 853513, 854349
+GO:0009337	CC	e	sulfite reductase complex (NADPH)	1/92	2/4436	0.04105326614413976	2	1	1.0	850588
+GO:0009898	CC	e	cytoplasmic side of plasma membrane	2/92	4/4436	0.002484681361396749	4	2	1.0	850712, 852837
+GO:0030127	CC	e	COPII vesicle coat	1/92	2/4436	0.04105326614413976	5	1	1.0	856430
+GO:0070971	CC	e	endoplasmic reticulum exit site	1/92	2/4436	0.04105326614413976	2	1	1.0	856430
+GO:0071563	CC	e	Myo2p-Vac17p-Vac8p transport complex	1/92	2/4436	0.04105326614413976	2	1	1.0	856702
+GO:1990334	CC	e	Bfa1-Bub2 complex	1/92	2/4436	0.04105326614413976	4	1	1.0	853513
+GO:0000907	MF	e	sulfonate dioxygenase activity	1/92	1/4436	0.020739404869232137	5	1	1.0	850669
+GO:0000908	MF	e	taurine dioxygenase activity	1/92	1/4436	0.020739404869232137	5	1	1.0	850669
+GO:0003958	MF	e	NADPH-hemoprotein reductase activity	1/92	1/4436	0.020739404869232137	5	1	1.0	850588
+GO:0003989	MF	e	acetyl-CoA carboxylase activity	1/92	1/4436	0.020739404869232137	5	1	1.0	855247
+GO:0004075	MF	e	biotin carboxylase activity	1/92	1/4436	0.020739404869232137	4	1	1.0	855247
+GO:0004084	MF	e	branched-chain-amino-acid transaminase activity	1/92	1/4436	0.020739404869232137	5	1	1.0	853613
+GO:0004107	MF	e	chorismate synthase activity	1/92	1/4436	0.020739404869232137	5	1	1.0	852729
+GO:0004352	MF	e	glutamate dehydrogenase (NAD+) activity	1/92	1/4436	0.020739404869232137	6	1	1.0	851311
+GO:0004372	MF	e	glycine hydroxymethyltransferase activity	1/92	2/4436	0.04105326614413976	5	1	1.0	850747
+GO:0004401	MF	e	histidinol-phosphatase activity	1/92	1/4436	0.020739404869232137	6	1	1.0	850581
+GO:0004410	MF	e	homocitrate synthase activity	1/92	2/4436	0.04105326614413976	5	1	1.0	851425
+GO:0004783	MF	e	sulfite reductase (NADPH) activity	1/92	2/4436	0.04105326614413976	5	1	1.0	850588
+GO:0005092	MF	e	GDP-dissociation inhibitor activity	1/92	2/4436	0.04105326614413976	5	1	1.0	853513
+GO:0005365	MF	e	myo-inositol transmembrane transporter activity	1/92	2/4436	0.04105326614413976	6	1	1.0	852108
+GO:0010181	MF	e	FMN binding	2/92	15/4436	0.03749231233594046	6	2	1.0	850588, 852729
+GO:0015495	MF	e	gamma-aminobutyric acid:proton symporter activity	1/92	1/4436	0.020739404869232137	10	1	1.0	851317
+GO:0015562	MF	e	efflux transmembrane transporter activity	1/92	2/4436	0.04105326614413976	3	1	1.0	852331
+GO:0016251	MF	e	RNA polymerase II general transcription initiation factor activity	1/92	2/4436	0.04105326614413976	3	1	1.0	855974
+GO:0017025	MF	e	TBP-class protein binding	1/92	1/4436	0.020739404869232137	5	1	1.0	850744
+GO:0022893	MF	e	low-affinity tryptophan transmembrane transporter activity	1/92	1/4436	0.020739404869232137	10	1	1.0	852361
+GO:0030371	MF	e	translation repressor activity	1/92	1/4436	0.020739404869232137	2	1	1.0	854541
+GO:0033192	MF	e	calmodulin-dependent protein phosphatase activity	1/92	2/4436	0.04105326614413976	9	1	1.0	854946
+GO:0034319	MF	e	alcohol O-butanoyltransferase activity	1/92	1/4436	0.020739404869232137	7	1	1.0	852476
+GO:0034338	MF	e	short-chain carboxylesterase activity	1/92	2/4436	0.04105326614413976	5	1	1.0	852476
+GO:0034647	MF	e	histone demethylase activity (H3-trimethyl-K4 specific)	1/92	2/4436	0.04105326614413976	6	1	1.0	855214
+GO:0042602	MF	e	riboflavin reductase (NADPH) activity	1/92	1/4436	0.020739404869232137	5	1	1.0	852729
+GO:0050546	MF	e	4-hydroxyphenylpyruvate decarboxylase activity	1/92	1/4436	0.020739404869232137	5	1	1.0	851987
+GO:0052654	MF	e	L-leucine transaminase activity	1/92	1/4436	0.020739404869232137	6	1	1.0	853613
+GO:0052655	MF	e	L-valine transaminase activity	1/92	1/4436	0.020739404869232137	6	1	1.0	853613
+GO:0052656	MF	e	L-isoleucine transaminase activity	1/92	1/4436	0.020739404869232137	6	1	1.0	853613
+GO:0070905	MF	e	serine binding	1/92	2/4436	0.04105326614413976	6	1	1.0	850747

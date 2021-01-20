@@ -1,90 +1,107 @@
 # GO	NS	enrichment	name	ratio_in_study	ratio_in_pop	p_uncorrected	depth	study_count	p_fdr_bh	study_items
-GO:0000435	BP	e	positive regulation of transcription from RNA polymerase II promoter by galactose	2/136	5/4436	0.008780804552812336	13	2	1.0	852053, 855800
-GO:0001111	BP	e	promoter clearance from RNA polymerase II promoter	1/136	1/4436	0.03065825067627704	9	1	1.0	855974
-GO:0006071	BP	e	glycerol metabolic process	2/136	11/4436	0.042813293734642835	7	2	1.0	850491, 856791
-GO:0006366	BP	e	transcription by RNA polymerase II	3/136	12/4436	0.00506126278598676	10	3	1.0	852726, 852810, 855974
-GO:0006367	BP	e	transcription initiation from RNA polymerase II promoter	2/136	4/4436	0.005376278620168387	9	2	1.0	852810, 855974
-GO:0006533	BP	e	aspartate catabolic process	1/136	1/4436	0.03065825067627704	10	1	1.0	853755
-GO:0006550	BP	e	isoleucine catabolic process	1/136	1/4436	0.03065825067627704	9	1	1.0	850527
-GO:0006574	BP	e	valine catabolic process	1/136	1/4436	0.03065825067627704	9	1	1.0	850527
-GO:0006884	BP	e	cell volume homeostasis	1/136	1/4436	0.03065825067627704	6	1	1.0	852537
-GO:0007131	BP	e	reciprocal meiotic recombination	4/136	41/4436	0.03562976804044728	9	4	1.0	850916, 851401, 852057, 856115
-GO:0007166	BP	e	cell surface receptor signaling pathway	1/136	1/4436	0.03065825067627704	5	1	1.0	855393
-GO:0007535	BP	e	donor selection	2/136	6/4436	0.012907764588098615	3	2	1.0	854675, 855132
-GO:0008608	BP	e	attachment of spindle microtubules to kinetochore	1/136	1/4436	0.03065825067627704	3	1	1.0	856089
-GO:0008652	BP	e	cellular amino acid biosynthetic process	6/136	85/4436	0.0450571378053985	7	6	1.0	850581, 850588, 851346, 852729, 853613, 854877
-GO:0009081	BP	e	branched-chain amino acid metabolic process	1/136	1/4436	0.03065825067627704	7	1	1.0	853613
-GO:0010570	BP	e	regulation of filamentous growth	1/136	1/4436	0.03065825067627704	4	1	1.0	856482
-GO:0015851	BP	e	nucleobase transport	2/136	7/4436	0.01771031636534961	5	2	1.0	852238, 854364
-GO:0015862	BP	e	uridine transport	1/136	1/4436	0.03065825067627704	8	1	1.0	852238
-GO:0016310	BP	e	phosphorylation	10/136	166/4436	0.03523843050962137	5	10	1.0	850334, 850453, 850491, 851457, 852077, 852316, 855130, 856239, 856482, 856670
-GO:0016311	BP	e	dephosphorylation	5/136	56/4436	0.027503377841371898	5	5	1.0	850581, 851537, 852092, 852114, 856791
-GO:0018105	BP	e	peptidyl-serine phosphorylation	4/136	35/4436	0.021192325883254454	9	4	1.0	851457, 852077, 852316, 855130
-GO:0019752	BP	e	carboxylic acid metabolic process	2/136	11/4436	0.042813293734642835	5	2	1.0	851346, 853994
-GO:0019878	BP	e	lysine biosynthetic process via aminoadipic acid	2/136	11/4436	0.042813293734642835	11	2	1.0	851346, 852723
-GO:0022900	BP	e	electron transport chain	3/136	21/4436	0.025025566607854485	4	3	1.0	850527, 852124, 855612
-GO:0032956	BP	e	regulation of actin cytoskeleton organization	2/136	7/4436	0.01771031636534961	7	2	1.0	852716, 856249
-GO:0033611	BP	e	oxalate catabolic process	1/136	1/4436	0.03065825067627704	8	1	1.0	852523
-GO:0034087	BP	e	establishment of mitotic sister chromatid cohesion	2/136	10/4436	0.03573493789707642	4	2	1.0	855067, 856089
-GO:0034219	BP	e	carbohydrate transmembrane transport	1/136	1/4436	0.03065825067627704	6	1	1.0	852053
-GO:0034244	BP	e	negative regulation of transcription elongation from RNA polymerase II promoter	1/136	1/4436	0.03065825067627704	12	1	1.0	854675
-GO:0034486	BP	e	vacuolar transmembrane transport	1/136	1/4436	0.03065825067627704	5	1	1.0	852537
-GO:0034502	BP	e	protein localization to chromosome	1/136	1/4436	0.03065825067627704	6	1	1.0	855132
-GO:0035556	BP	e	intracellular signal transduction	6/136	56/4436	0.006852790667727252	5	6	1.0	850334, 851086, 852077, 852316, 855130, 856482
-GO:0042743	BP	e	hydrogen peroxide metabolic process	1/136	1/4436	0.03065825067627704	5	1	1.0	850527
-GO:0042759	BP	e	long-chain fatty acid biosynthetic process	1/136	1/4436	0.03065825067627704	9	1	1.0	855247
-GO:0043555	BP	e	regulation of translation in response to stress	1/136	1/4436	0.03065825067627704	8	1	1.0	856482
-GO:0043951	BP	e	negative regulation of cAMP-mediated signaling	1/136	1/4436	0.03065825067627704	8	1	1.0	851086
-GO:0048478	BP	e	replication fork protection	2/136	6/4436	0.012907764588098615	10	2	1.0	851457, 855067
-GO:0051389	BP	e	inactivation of MAPKK activity	1/136	1/4436	0.03065825067627704	12	1	1.0	851558
-GO:0055064	BP	e	chloride ion homeostasis	1/136	1/4436	0.03065825067627704	8	1	1.0	852537
-GO:0055075	BP	e	potassium ion homeostasis	1/136	1/4436	0.03065825067627704	8	1	1.0	852537
-GO:0061158	BP	e	3'-UTR-mediated mRNA destabilization	1/136	1/4436	0.03065825067627704	11	1	1.0	852513
-GO:0071459	BP	e	protein localization to chromosome, centromeric region	2/136	6/4436	0.012907764588098615	7	2	1.0	856089, 856115
-GO:0090055	BP	e	positive regulation of chromatin silencing at silent mating-type cassette	1/136	1/4436	0.03065825067627704	12	1	1.0	854675
-GO:0090203	BP	e	transcriptional activation by promoter-terminator looping	1/136	1/4436	0.03065825067627704	12	1	1.0	853970
-GO:0090204	BP	e	protein localization to nuclear pore	1/136	1/4436	0.03065825067627704	8	1	1.0	853970
-GO:0090218	BP	e	positive regulation of lipid kinase activity	1/136	1/4436	0.03065825067627704	10	1	1.0	851102
-GO:1900463	BP	e	negative regulation of cellular response to alkaline pH by negative regulation of transcription from RNA polymerase II promoter	1/136	1/4436	0.03065825067627704	12	1	1.0	851613
-GO:1902647	BP	e	negative regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process	1/136	1/4436	0.03065825067627704	11	1	1.0	852426
-GO:2000221	BP	e	negative regulation of pseudohyphal growth	3/136	8/4436	0.0014099416549655079	8	3	1.0	851613, 852091, 854675
-GO:2001295	BP	e	malonyl-CoA biosynthetic process	1/136	1/4436	0.03065825067627704	12	1	1.0	855247
-GO:0000798	CC	e	nuclear cohesin complex	1/136	1/4436	0.03065825067627704	3	1	1.0	856115
-GO:0000922	CC	e	spindle pole	2/136	11/4436	0.042813293734642835	2	2	1.0	853513, 854349
-GO:0005674	CC	e	transcription factor TFIIF complex	1/136	1/4436	0.03065825067627704	5	1	1.0	855974
-GO:0008278	CC	e	cohesin complex	1/136	1/4436	0.03065825067627704	2	1	1.0	856115
-GO:0016592	CC	e	mediator complex	3/136	16/4436	0.011778114202211363	2	3	1.0	852053, 852726, 855974
-GO:0031166	CC	e	integral component of vacuolar membrane	1/136	1/4436	0.03065825067627704	5	1	1.0	852537
-GO:0045281	CC	e	succinate dehydrogenase complex	1/136	1/4436	0.03065825067627704	4	1	1.0	855145
-GO:0070971	CC	e	endoplasmic reticulum exit site	1/136	1/4436	0.03065825067627704	2	1	1.0	856430
-GO:0003712	MF	e	transcription coregulator activity	3/136	26/4436	0.04380539956053342	2	3	1.0	850744, 852053, 852726
-GO:0003844	MF	e	1,4-alpha-glucan branching enzyme activity	1/136	1/4436	0.03065825067627704	5	1	1.0	856705
-GO:0003958	MF	e	NADPH-hemoprotein reductase activity	1/136	1/4436	0.03065825067627704	5	1	1.0	850588
-GO:0003989	MF	e	acetyl-CoA carboxylase activity	1/136	1/4436	0.03065825067627704	5	1	1.0	855247
-GO:0004075	MF	e	biotin carboxylase activity	1/136	1/4436	0.03065825067627704	4	1	1.0	855247
-GO:0004084	MF	e	branched-chain-amino-acid transaminase activity	1/136	1/4436	0.03065825067627704	5	1	1.0	853613
-GO:0004107	MF	e	chorismate synthase activity	1/136	1/4436	0.03065825067627704	5	1	1.0	852729
-GO:0004148	MF	e	dihydrolipoyl dehydrogenase activity	1/136	1/4436	0.03065825067627704	5	1	1.0	850527
-GO:0004401	MF	e	histidinol-phosphatase activity	1/136	1/4436	0.03065825067627704	6	1	1.0	850581
-GO:0004674	MF	e	protein serine/threonine kinase activity	7/136	107/4436	0.044833350137786825	6	7	1.0	850334, 850453, 851457, 852077, 852316, 855130, 856482
-GO:0004738	MF	e	pyruvate dehydrogenase activity	1/136	1/4436	0.03065825067627704	4	1	1.0	850527
-GO:0005102	MF	e	signaling receptor binding	1/136	1/4436	0.03065825067627704	3	1	1.0	852724
-GO:0008270	MF	e	zinc ion binding	9/136	140/4436	0.03887928663997056	6	9	1.0	850492, 850700, 852810, 853096, 853224, 853334, 854864, 855800, 856430
-GO:0009055	MF	e	electron transfer activity	4/136	24/4436	0.005573223573867688	3	4	1.0	850527, 852124, 855145, 855612
-GO:0015205	MF	e	nucleobase transmembrane transporter activity	2/136	10/4436	0.03573493789707642	3	2	1.0	852238, 854364
-GO:0015213	MF	e	uridine transmembrane transporter activity	1/136	1/4436	0.03065825067627704	6	1	1.0	852238
-GO:0015379	MF	e	potassium:chloride symporter activity	1/136	1/4436	0.03065825067627704	9	1	1.0	852537
-GO:0016175	MF	e	superoxide-generating NADPH oxidase activity	1/136	1/4436	0.03065825067627704	5	1	1.0	852716
-GO:0017025	MF	e	TBP-class protein binding	1/136	1/4436	0.03065825067627704	5	1	1.0	850744
-GO:0019171	MF	e	3-hydroxyacyl-[acyl-carrier-protein] dehydratase activity	1/136	1/4436	0.03065825067627704	5	1	1.0	856464
-GO:0030371	MF	e	translation repressor activity	1/136	1/4436	0.03065825067627704	2	1	1.0	854541
-GO:0042602	MF	e	riboflavin reductase (NADPH) activity	1/136	1/4436	0.03065825067627704	5	1	1.0	852729
-GO:0043169	MF	e	cation binding	2/136	6/4436	0.012907764588098615	3	2	1.0	851558, 856705
-GO:0047386	MF	e	fructose-2,6-bisphosphate 6-phosphatase activity	1/136	1/4436	0.03065825067627704	8	1	1.0	852092
-GO:0050203	MF	e	oxalate-CoA ligase activity	1/136	1/4436	0.03065825067627704	5	1	1.0	852523
-GO:0051119	MF	e	sugar transmembrane transporter activity	1/136	1/4436	0.03065825067627704	4	1	1.0	852053
-GO:0052654	MF	e	L-leucine transaminase activity	1/136	1/4436	0.03065825067627704	6	1	1.0	853613
-GO:0052655	MF	e	L-valine transaminase activity	1/136	1/4436	0.03065825067627704	6	1	1.0	853613
-GO:0052656	MF	e	L-isoleucine transaminase activity	1/136	1/4436	0.03065825067627704	6	1	1.0	853613
-GO:0070573	MF	e	metallodipeptidase activity	1/136	1/4436	0.03065825067627704	7	1	1.0	850605
-GO:0102752	MF	e	1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)	1/136	1/4436	0.03065825067627704	5	1	1.0	856705
+GO:0001111	BP	e	promoter clearance from RNA polymerase II promoter	1/91	1/4436	0.02051397655549075	9	1	1.0	855974
+GO:0001172	BP	e	transcription, RNA-templated	1/91	2/4436	0.04061166046397364	9	1	1.0	852810
+GO:0001174	BP	e	transcriptional start site selection at RNA polymerase II promoter	1/91	2/4436	0.04061166046397364	9	1	1.0	855974
+GO:0001193	BP	e	maintenance of transcriptional fidelity during DNA-templated transcription elongation from RNA polymerase II promoter	1/91	2/4436	0.04061166046397364	9	1	1.0	852810
+GO:0005978	BP	e	glycogen biosynthetic process	2/91	13/4436	0.02803082063373045	8	2	1.0	855131, 856705
+GO:0006310	BP	e	DNA recombination	3/91	38/4436	0.04202774597209247	7	3	1.0	850916, 852963, 855132
+GO:0006366	BP	e	transcription by RNA polymerase II	3/91	12/4436	0.0016068777568821987	10	3	1.0	852726, 852810, 855974
+GO:0006367	BP	e	transcription initiation from RNA polymerase II promoter	2/91	4/4436	0.0024314063314556543	9	2	1.0	852810, 855974
+GO:0006533	BP	e	aspartate catabolic process	1/91	1/4436	0.02051397655549075	10	1	1.0	853755
+GO:0006598	BP	e	polyamine catabolic process	1/91	2/4436	0.04061166046397364	8	1	1.0	855205
+GO:0006631	BP	e	fatty acid metabolic process	3/91	28/4436	0.018887197986708095	7	3	1.0	852523, 855247, 856464
+GO:0006633	BP	e	fatty acid biosynthetic process	2/91	14/4436	0.032272506978942975	8	2	1.0	855247, 856464
+GO:0006661	BP	e	phosphatidylinositol biosynthetic process	1/91	2/4436	0.04061166046397364	8	1	1.0	851102
+GO:0007535	BP	e	donor selection	2/91	6/4436	0.005917540336368946	3	2	1.0	854675, 855132
+GO:0008608	BP	e	attachment of spindle microtubules to kinetochore	1/91	1/4436	0.02051397655549075	3	1	1.0	856089
+GO:0008652	BP	e	cellular amino acid biosynthetic process	5/91	85/4436	0.02947993272765814	7	5	1.0	850581, 850588, 852729, 853613, 854877
+GO:0009081	BP	e	branched-chain amino acid metabolic process	1/91	1/4436	0.02051397655549075	7	1	1.0	853613
+GO:0009099	BP	e	valine biosynthetic process	1/91	2/4436	0.04061166046397364	9	1	1.0	853613
+GO:0016311	BP	e	dephosphorylation	4/91	53/4436	0.022584554383928167	5	4	1.0	850581, 851537, 852092, 856791
+GO:0018105	BP	e	peptidyl-serine phosphorylation	4/91	35/4436	0.0053370806772790914	9	4	1.0	851457, 852077, 852316, 855130
+GO:0019255	BP	e	glucose 1-phosphate metabolic process	1/91	2/4436	0.04061166046397364	5	1	1.0	855131
+GO:0019483	BP	e	beta-alanine biosynthetic process	1/91	2/4436	0.04061166046397364	8	1	1.0	855205
+GO:0032120	BP	e	ascospore-type prospore membrane formation	2/91	16/4436	0.04144774346808146	6	2	1.0	852445, 854349
+GO:0032956	BP	e	regulation of actin cytoskeleton organization	2/91	7/4436	0.008174378276014135	7	2	1.0	852716, 856249
+GO:0033611	BP	e	oxalate catabolic process	1/91	1/4436	0.02051397655549075	8	1	1.0	852523
+GO:0034087	BP	e	establishment of mitotic sister chromatid cohesion	2/91	10/4436	0.01682903781967233	4	2	1.0	855067, 856089
+GO:0034244	BP	e	negative regulation of transcription elongation from RNA polymerase II promoter	1/91	1/4436	0.02051397655549075	12	1	1.0	854675
+GO:0034502	BP	e	protein localization to chromosome	1/91	1/4436	0.02051397655549075	6	1	1.0	855132
+GO:0042759	BP	e	long-chain fatty acid biosynthetic process	1/91	1/4436	0.02051397655549075	9	1	1.0	855247
+GO:0042770	BP	e	signal transduction in response to DNA damage	1/91	2/4436	0.04061166046397364	6	1	1.0	851457
+GO:0043547	BP	e	positive regulation of GTPase activity	3/91	38/4436	0.04202774597209247	6	3	1.0	852712, 853513, 856430
+GO:0043951	BP	e	negative regulation of cAMP-mediated signaling	1/91	1/4436	0.02051397655549075	8	1	1.0	851086
+GO:0044182	BP	e	filamentous growth of a population of unicellular organisms	1/91	2/4436	0.04061166046397364	3	1	1.0	853977
+GO:0044773	BP	e	mitotic DNA damage checkpoint	1/91	2/4436	0.04061166046397364	9	1	1.0	851457
+GO:0048478	BP	e	replication fork protection	2/91	6/4436	0.005917540336368946	10	2	1.0	851457, 855067
+GO:0051321	BP	e	meiotic cell cycle	6/91	114/4436	0.02867475682768506	3	6	1.0	850303, 850916, 852837, 854349, 855067, 856089
+GO:0060237	BP	e	regulation of fungal-type cell wall organization	2/91	16/4436	0.04144774346808146	5	2	1.0	851086, 855130
+GO:0061158	BP	e	3'-UTR-mediated mRNA destabilization	1/91	1/4436	0.02051397655549075	11	1	1.0	852513
+GO:0071475	BP	e	cellular hyperosmotic salinity response	1/91	1/4436	0.02051397655549075	7	1	1.0	851613
+GO:0071480	BP	e	cellular response to gamma radiation	1/91	2/4436	0.04061166046397364	7	1	1.0	855132
+GO:0071481	BP	e	cellular response to X-ray	1/91	2/4436	0.04061166046397364	7	1	1.0	855132
+GO:0090055	BP	e	positive regulation of silent mating-type cassette heterochromatin assembly	1/91	1/4436	0.02051397655549075	12	1	1.0	854675
+GO:0090110	BP	e	COPII-coated vesicle cargo loading	1/91	2/4436	0.04061166046397364	5	1	1.0	856430
+GO:0090218	BP	e	positive regulation of lipid kinase activity	1/91	1/4436	0.02051397655549075	10	1	1.0	851102
+GO:0090282	BP	e	positive regulation of transcription involved in G2/M transition of mitotic cell cycle	1/91	2/4436	0.04061166046397364	12	1	1.0	854675
+GO:0090419	BP	e	negative regulation of transcription involved in G2/M transition of mitotic cell cycle	1/91	2/4436	0.04061166046397364	11	1	1.0	854675
+GO:1900463	BP	e	negative regulation of cellular response to alkaline pH by negative regulation of transcription from RNA polymerase II promoter	1/91	1/4436	0.02051397655549075	12	1	1.0	851613
+GO:1900464	BP	e	negative regulation of cellular hyperosmotic salinity response by negative regulation of transcription from RNA polymerase II promoter	1/91	2/4436	0.04061166046397364	12	1	1.0	851613
+GO:1902647	BP	e	negative regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process	1/91	1/4436	0.02051397655549075	11	1	1.0	852426
+GO:1903468	BP	e	positive regulation of DNA replication initiation	1/91	2/4436	0.04061166046397364	12	1	1.0	854675
+GO:1904902	BP	e	ESCRT III complex assembly	1/91	2/4436	0.04061166046397364	7	1	1.0	850712
+GO:2000221	BP	e	negative regulation of pseudohyphal growth	3/91	8/4436	0.000434173195017569	8	3	1.0	851613, 852091, 854675
+GO:2001295	BP	e	malonyl-CoA biosynthetic process	1/91	1/4436	0.02051397655549075	12	1	1.0	855247
+GO:0000817	CC	e	COMA complex	1/91	2/4436	0.04061166046397364	2	1	1.0	856089
+GO:0000922	CC	e	spindle pole	2/91	11/4436	0.02029699118810828	2	2	1.0	853513, 854349
+GO:0005665	CC	e	RNA polymerase II, core complex	1/91	2/4436	0.04061166046397364	8	1	1.0	852810
+GO:0005669	CC	e	transcription factor TFIID complex	1/91	2/4436	0.04061166046397364	4	1	1.0	855974
+GO:0005674	CC	e	transcription factor TFIIF complex	1/91	1/4436	0.02051397655549075	4	1	1.0	855974
+GO:0009337	CC	e	sulfite reductase complex (NADPH)	1/91	2/4436	0.04061166046397364	2	1	1.0	850588
+GO:0009898	CC	e	cytoplasmic side of plasma membrane	2/91	4/4436	0.0024314063314556543	4	2	1.0	850712, 852837
+GO:0016592	CC	e	mediator complex	2/91	16/4436	0.04144774346808146	2	2	1.0	852726, 855974
+GO:0030127	CC	e	COPII vesicle coat	1/91	2/4436	0.04061166046397364	5	1	1.0	856430
+GO:0031416	CC	e	NatB complex	1/91	2/4436	0.04061166046397364	7	1	1.0	856249
+GO:0031519	CC	e	PcG protein complex	1/91	2/4436	0.04061166046397364	2	1	1.0	851613
+GO:0043564	CC	e	Ku70:Ku80 complex	1/91	2/4436	0.04061166046397364	2	1	1.0	855132
+GO:0045281	CC	e	succinate dehydrogenase complex	1/91	1/4436	0.02051397655549075	4	1	1.0	855145
+GO:0070603	CC	e	SWI/SNF superfamily-type complex	1/91	2/4436	0.04061166046397364	4	1	1.0	852947
+GO:0070971	CC	e	endoplasmic reticulum exit site	1/91	2/4436	0.04061166046397364	2	1	1.0	856430
+GO:1990334	CC	e	Bfa1-Bub2 complex	1/91	2/4436	0.04061166046397364	4	1	1.0	853513
+GO:1990526	CC	e	Ste12p-Dig1p-Dig2p complex	1/91	2/4436	0.04061166046397364	2	1	1.0	852091
+GO:0003844	MF	e	1,4-alpha-glucan branching enzyme activity	1/91	1/4436	0.02051397655549075	5	1	1.0	856705
+GO:0003958	MF	e	NADPH-hemoprotein reductase activity	1/91	1/4436	0.02051397655549075	5	1	1.0	850588
+GO:0003968	MF	e	RNA-directed 5'-3' RNA polymerase activity	1/91	2/4436	0.04061166046397364	7	1	1.0	852810
+GO:0003989	MF	e	acetyl-CoA carboxylase activity	1/91	1/4436	0.02051397655549075	5	1	1.0	855247
+GO:0004035	MF	e	alkaline phosphatase activity	1/91	2/4436	0.04061166046397364	6	1	1.0	852092
+GO:0004069	MF	e	L-aspartate:2-oxoglutarate aminotransferase activity	1/91	2/4436	0.04061166046397364	5	1	1.0	853755
+GO:0004075	MF	e	biotin carboxylase activity	1/91	1/4436	0.02051397655549075	4	1	1.0	855247
+GO:0004084	MF	e	branched-chain-amino-acid transaminase activity	1/91	1/4436	0.02051397655549075	5	1	1.0	853613
+GO:0004107	MF	e	chorismate synthase activity	1/91	1/4436	0.02051397655549075	5	1	1.0	852729
+GO:0004401	MF	e	histidinol-phosphatase activity	1/91	1/4436	0.02051397655549075	6	1	1.0	850581
+GO:0004614	MF	e	phosphoglucomutase activity	1/91	2/4436	0.04061166046397364	5	1	1.0	855131
+GO:0004783	MF	e	sulfite reductase (NADPH) activity	1/91	2/4436	0.04061166046397364	5	1	1.0	850588
+GO:0005092	MF	e	GDP-dissociation inhibitor activity	1/91	2/4436	0.04061166046397364	5	1	1.0	853513
+GO:0005546	MF	e	phosphatidylinositol-4,5-bisphosphate binding	2/91	12/4436	0.024035013874628277	8	2	1.0	851086, 852426
+GO:0008483	MF	e	transaminase activity	2/91	16/4436	0.04144774346808146	4	2	1.0	853613, 853755
+GO:0009055	MF	e	electron transfer activity	3/91	21/4436	0.008500354182733861	3	3	1.0	852124, 855145, 855612
+GO:0010181	MF	e	FMN binding	2/91	15/4436	0.03674853900500308	6	2	1.0	850588, 852729
+GO:0015035	MF	e	protein disulfide oxidoreductase activity	2/91	17/4436	0.046359298106023156	5	2	1.0	852124, 852130
+GO:0015616	MF	e	DNA translocase activity	2/91	16/4436	0.04144774346808146	9	2	1.0	852947, 855974
+GO:0016175	MF	e	superoxide-generating NADPH oxidase activity	1/91	1/4436	0.02051397655549075	5	1	1.0	852716
+GO:0016251	MF	e	RNA polymerase II general transcription initiation factor activity	1/91	2/4436	0.04061166046397364	3	1	1.0	855974
+GO:0016791	MF	e	phosphatase activity	3/91	33/4436	0.02923532212452795	5	3	1.0	851537, 852092, 856791
+GO:0019171	MF	e	3-hydroxyacyl-[acyl-carrier-protein] dehydratase activity	1/91	1/4436	0.02051397655549075	5	1	1.0	856464
+GO:0019781	MF	e	NEDD8 activating enzyme activity	1/91	2/4436	0.04061166046397364	5	1	1.0	856179
+GO:0030371	MF	e	translation repressor activity	1/91	1/4436	0.02051397655549075	2	1	1.0	854541
+GO:0030695	MF	e	GTPase regulator activity	1/91	2/4436	0.04061166046397364	4	1	1.0	852712
+GO:0031956	MF	e	medium-chain fatty acid-CoA ligase activity	1/91	2/4436	0.04061166046397364	6	1	1.0	852523
+GO:0042602	MF	e	riboflavin reductase (NADPH) activity	1/91	1/4436	0.02051397655549075	5	1	1.0	852729
+GO:0047386	MF	e	fructose-2,6-bisphosphate 6-phosphatase activity	1/91	1/4436	0.02051397655549075	8	1	1.0	852092
+GO:0048038	MF	e	quinone binding	1/91	2/4436	0.04061166046397364	2	1	1.0	855145
+GO:0050203	MF	e	oxalate-CoA ligase activity	1/91	1/4436	0.02051397655549075	5	1	1.0	852523
+GO:0052654	MF	e	L-leucine transaminase activity	1/91	1/4436	0.02051397655549075	6	1	1.0	853613
+GO:0052655	MF	e	L-valine transaminase activity	1/91	1/4436	0.02051397655549075	6	1	1.0	853613
+GO:0052656	MF	e	L-isoleucine transaminase activity	1/91	1/4436	0.02051397655549075	6	1	1.0	853613
+GO:0097020	MF	e	COPII adaptor activity	1/91	2/4436	0.04061166046397364	5	1	1.0	856587
+GO:0102752	MF	e	1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)	1/91	1/4436	0.02051397655549075	5	1	1.0	856705
